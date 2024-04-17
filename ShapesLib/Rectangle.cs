@@ -1,7 +1,4 @@
-﻿namespace GeometryApp.ShapesLib;
-using Interfaces;
+﻿namespace Create.GeometryApp.ShapesLib;
+
 
 public class Rectangle : IShape
-{
-
-}
